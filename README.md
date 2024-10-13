@@ -3,13 +3,13 @@ WireWorld simulation
 
 
 ## Colors:
-Electron Head (Red): Represents an active part of the electron in the WireWorld simulation. Moves to the next state on each step.
+**Electron Head (Red):** Represents an active part of the electron in the WireWorld simulation. Moves to the next state on each step.
 
-Electron Tail (Green): Represents the trailing part of an electron that follows behind the head. Transitions into a conductor.
+**Electron Tail (Green):** Represents the trailing part of an electron that follows behind the head. Transitions into a conductor.
 
-Conductor (Blue): Conductive cells that can carry electrons. Can turn into an electron head if it receives input from nearby heads.
+**Conductor (Blue):** Conductive cells that can carry electrons. Can turn into an electron head if it receives input from nearby heads.
 
-Empty (Black): Represents empty space in the simulation grid where no activity occurs.
+**Empty (Black):** Represents empty space in the simulation grid where no activity occurs.
 
 
 ## Controls:
