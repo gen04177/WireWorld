@@ -17,7 +17,7 @@ WireWorld simulation
 
 **Circle:** Clears all electrons from the simulation.
 
-**DPAD Left:** Decreases the simulation FPS (min 5 FPS).
+**DPAD Left:** Decreases the simulation FPS (min 1 FPS).
 
 **DPAD Right:** Increases the simulation FPS (max 60 FPS).
 
