@@ -1,5 +1,5 @@
 # WireWorld
-WireWorld simulation 
+WireWorld chaotic simulation.
 
 
 ## Colors:
