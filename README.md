@@ -34,4 +34,4 @@ https://en.wikipedia.org/wiki/Wireworld
 https://github.com/gpuhw/wireworld
 
 ## Credits:
-- J. Tornblom - SDK.
+- ps5-payload-sdk
